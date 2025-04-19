@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Forever Love Proposal</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="overlay"></div>
+
+  <div class="main-content" id="proposalPage">
+    <h1>Will you be mine forever? 💖</h1>
+    <button id="yesBtn">Yes</button>
+    <button id="noBtn">No</button>
+  </div>
+
+  <div class="main-content" id="loadingPage">
+    <div class="loader"></div>
+    <div id="loadingText">I Love You... 💖</div>
+  </div>
+
+  <div class="main-content" id="finalMessage">
+    <h1>∞ Forever Love 💕</h1>
+    <button id="openBookBtn">Open Love Book 📖</button>
+  </div>
+
+  <div class="main-content" id="bookContainer">
+    <div id="bookContent" class="flip-book"></div>
+    <div class="book-buttons">
+      <button id="prevBtn">⬅️ Previous</button>
+      <button id="nextBtn">Next ➡️</button>
+    </div>
+  </div>
+
+  <!-- Muted audio initially (for autoplay to work) -->
+  <audio id="bgMusic" muted autoplay loop>
+    <source src="./audio//song.mp3" type="audio/mp3" />
+    Your browser does not support the audio element.
+  </audio>
+
+  <script src="script.js"></script>
+</body>
+</html>
