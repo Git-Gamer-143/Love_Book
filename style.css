@@ -97,10 +97,14 @@ button {
 }
 
 .poem {
-  font-size: 18px;
+  font-size: 24px; /* Shayari ka font bada */
   text-align: left;
   white-space: pre-wrap;
-  line-height: 1.5;
+  line-height: 1.8;
+  font-weight: bold;
+  color: #ffe4e1; /* halka romantic color */
+  font-family: 'Segoe UI', cursive, sans-serif;
+  text-shadow: 1px 1px 2px #000;
 }
 
 .book-buttons {

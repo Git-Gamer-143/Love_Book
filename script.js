@@ -12,27 +12,27 @@ const bgMusic = document.getElementById("bgMusic");
 
 const pages = [
   {
-    poem: "💌 Tujhme basi hai meri zindagi,\nTere bina har khushi adhoori hai...",
+    poem: "Pehli nazar mein kuch toh baat ho gayi, Tujhse milke dil ko raahat ho gayi... 💘👀 Woh muskaan, woh nigahein jaadu kar gayi, Meri duniya bas teri saath ho gayi... 💫💑", 
     image: "<img src='./image/image3.jpeg' alt='Love Photo 1' class='book-img' />"
   },
   {
-    poem: "❤️ Har pal tujhe chahna, meri aadat ban chuki hai...",
+    poem: "Har shaam teri yaadon ka mela hota hai, Dil har pal bas tera hi deewana hota hai... ⏳❤️ Intezaar hai tujhe har mod pe paane ka, Kyunki tu hi toh meri har dua ka nasha hota hai... 🌇🙏",
     image: "<img src='./image/image4.jpeg' alt='Love Photo 2' class='book-img' />"
   },
   {
-    poem: "🌹 Tera naam hi meri dhadkan hai...",
+    poem: "Teri muskaan meri jaan ban gayi, Teri har khushi meri pehchaan ban gayi... 😊💞 Tere bina zindagi sooni si lagti hai, Tu aayi toh har ghadi shaan ban gayi... 🌟🌸",
     image: "<img src='./image/download.jpeg' alt='Love Photo 3' class='book-img' />"
   },
   {
-    poem: "💘 Tumse milke sab kuch khoobsurat lagta hai...",
+    poem: "Raat bhar khwabon mein tu hi tu aata hai, Tera chehra chaand sa chamakta jata hai... 🌙💤 Kash yeh khwab kabhi sach ban jaayein, Aur tu meri zindagi mein aake bas jaayein... 💖✨",
     image: "<img src='./image/download2.jpeg' alt='Love Photo 4' class='book-img' />"
   },
   {
-    poem: "💞 Mere khwab mein bhi sirf tum ho...",
+    poem: "Tere saath chalne ka junoon hai kuch aur, Har kadam pe lagta hai tu hai zaroor... 👣🤝 Na jaane kya rishta hai tujhse mera, Tere saath har pal lagta hai noor... 🌈❤️",
     image: "<img src='./image/download4.jpeg' alt='Love Photo 5' class='book-img' />"
   },
   {
-    poem: "💕 Har janam tumse hi mohabbat karunga...",
+    poem: "Meri mohabbat lafzon mein kaise bayaan karun, Tere liye toh har saans mein dua karun... 💌🔥 Tere naam se dhadakta hai dil mera, Tu hi toh hai jise har janam chaha karun... 💍💖",
     image: "<img src='./image/download (1).jpeg' alt='Love Photo 6' class='book-img' />"
   }
 ];
